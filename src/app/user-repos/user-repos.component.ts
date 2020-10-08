@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { SearchRepoService } from '../search-repo-services/search-repo.service';
+import { SearchRepoService } from '../search-repo.service.service';
 import { User } from '../user';
 import { Repo } from '../repo';
 

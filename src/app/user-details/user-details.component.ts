@@ -1,6 +1,6 @@
 import { Component, OnInit, Input } from '@angular/core';
 
-import { SearchUserService } from '../search-user-services/search-user.service';
+import { SearchUserService } from '../search-user.service.service';
 import { User } from '../user';
 import { ActivatedRoute, ParamMap } from '@angular/router';
 

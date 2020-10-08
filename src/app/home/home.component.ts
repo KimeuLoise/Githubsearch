@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { User } from '../user';
 import { Repo } from '../repo';
-import { SearchUserService } from '../search-user-services/search-user.service';
-import { SearchRepoService } from '../search-repo-services/search-repo.service';
+import { SearchUserService } from '../search-user.service.service';
+import { SearchRepoService } from '../search-repo.service.service';
 
 
 @Component({
